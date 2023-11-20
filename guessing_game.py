@@ -1,7 +1,7 @@
 #Guessing game
 
-#For this simple game what we need to do is ask for user type a random number between 1 and 100
-#After that we'll answer to user if he chouse the right number
+#For this simple game what we need to do is ask for user to type a random number between 1 and 100
+#After that we'll answer to user if he chousen the right number
 
 import random
 import math
